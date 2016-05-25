@@ -1,0 +1,4 @@
+Use case model:
+
+The Watcher search for a stream channel to watch
+The System shows the channel if the streamer is on or show other content if he's off;
